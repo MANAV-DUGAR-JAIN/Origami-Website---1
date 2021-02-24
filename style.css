@@ -1,0 +1,17 @@
+
+h2 {
+    background-color: greenyellow;
+    color:blue
+}
+body{
+    background-color:lavender;
+
+}
+img { 
+     width: 25%;
+     height: auto;
+     border-width: 4px;
+     border-style: solid;
+     border-color: #000000;
+     border-radius: 25px;
+}
